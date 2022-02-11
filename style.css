@@ -1,0 +1,59 @@
+
+
+body { 
+background-color: rgb(0, 183, 255);
+display: flex ;
+
+}
+
+
+
+button{
+  padding: 15px 200px;
+font-size: 24px;
+border: 1px solid white;
+border-radius: 50px;
+cursor: pointer;
+
+
+position: relative;
+  top: 60%;
+  bottom: 40%;
+  right: 50%;
+  left: 10%;
+  
+  
+
+}
+
+
+nav {
+ color: white;
+
+}
+
+
+/* logo */
+img{
+
+border-radius: 50%;
+width:500px;
+height: 500px;
+margin: 20px;
+margin-left: 30px;
+margin-right: 100px;
+}
+
+/* texto    */
+header {
+font-style: oblique;
+color: white;
+font-size: large;
+
+
+
+display: flex;
+align-items: center;
+
+}
+
